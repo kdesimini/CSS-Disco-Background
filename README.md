@@ -6,7 +6,7 @@ The script generates media queries based on some parameters. Just set them how y
 <table>
   <tr>
     <td><span><img src="https://www.mildvariety.com/files/asdf.gif" alt="boom town" width="200px"></span></td>
-    <td><span><img src="https://www.mildvariety.com/files/asdf2.gif" alt="boom boom" width="200px"></span></td>
+
     <td><span><img src="https://www.mildvariety.com/files/asdf3.gif" alt="boom shocka locka" width="200px"></span></td>
   </tr>
 </table>
