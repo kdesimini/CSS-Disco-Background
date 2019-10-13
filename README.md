@@ -1,6 +1,6 @@
 # CSS-Disco-Background
 Resize your web-page for a super-swag club experience.
-## ![Demo](https://kdesimini.github.io/CSS-Disco-Background/)
+## [Demo](https://kdesimini.github.io/CSS-Disco-Background/)
 The script generates media queries based on some parameters. Just set them how you wish and out poors hundreds of lines of media queries. What fun. 
 
 <table>
