@@ -11,4 +11,4 @@ The script generates media queries based on some parameters. Just set them how y
   </tr>
 </table>
 
-Yes, this can be done in Sass. No, I don't want to use Sass. How's that for some sass. 
+Yes, this can be done in Sass. Don’t give me sass. 
