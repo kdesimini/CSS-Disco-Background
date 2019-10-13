@@ -21,3 +21,8 @@ p {
 .disable-dbl-tap-zoom {
     touch-action: manipulation;
 }
+
+img {
+    border-radius: 8px;
+    box-shadow: 0 -14px 13px 12px black; 
+}
