@@ -17,3 +17,7 @@ p {
     text-align: center;
     vertical-align: middle;
 }
+
+.disable-dbl-tap-zoom {
+    touch-action: manipulation;
+}
