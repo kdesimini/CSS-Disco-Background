@@ -12,6 +12,7 @@
     <div id="main" class="center">
         <p>tap my forehead</p>
         <div>
+
             <img id="jeff" src="https://www.mildvariety.com/files/mynameehhjeff.jpg" alt="asdf" onclick="changeImage()">
         </div>
     </div>
@@ -22,6 +23,8 @@
 
 
     function changeImage() {
+        var aAudio = new Audio('https://www.mildvariety.com/files/ringtone_20.mp3');
+        aAudio.play();
         var cars = ["https://www.mildvariety.com/files/mynameehhjeff.jpg", "https://www.mildvariety.com/files/8b6.jpg", "https://www.mildvariety.com/files/my-name.png"];
         document.getElementById("jeff").src = cars[Math.floor(Math.random() * 3)];
     }
